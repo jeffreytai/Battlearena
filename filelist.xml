@@ -1,0 +1,6 @@
+<download name="battlearena" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="141903" md5="029419894bec629901947d9e2f672754"/>
+ </files>
+</download>
